@@ -1,0 +1,6 @@
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections\001_ConcurrentCollections\bin\Debug\ConcurrentCollections.exe.config
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections\001_ConcurrentCollections\bin\Debug\ConcurrentCollections.exe
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections\001_ConcurrentCollections\bin\Debug\ConcurrentCollections.pdb
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections\001_ConcurrentCollections\obj\Debug\001_ConcurrentCollections.csprojAssemblyReference.cache
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections\001_ConcurrentCollections\obj\Debug\ConcurrentCollections.exe
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections\001_ConcurrentCollections\obj\Debug\ConcurrentCollections.pdb

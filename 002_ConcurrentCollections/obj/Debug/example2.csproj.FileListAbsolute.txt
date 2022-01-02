@@ -1,0 +1,13 @@
+D:\VisualStudio Projects\ConcurrentCollections6Lesson\example2\bin\Debug\example2.exe.config
+D:\VisualStudio Projects\ConcurrentCollections6Lesson\example2\bin\Debug\example2.exe
+D:\VisualStudio Projects\ConcurrentCollections6Lesson\example2\bin\Debug\example2.pdb
+D:\VisualStudio Projects\ConcurrentCollections6Lesson\example2\obj\Debug\example2.csproj.CoreCompileInputs.cache
+D:\VisualStudio Projects\ConcurrentCollections6Lesson\example2\obj\Debug\example2.exe
+D:\VisualStudio Projects\ConcurrentCollections6Lesson\example2\obj\Debug\example2.pdb
+D:\VisualStudio Projects\ConcurrentCollections6Lesson\example2\obj\Debug\example2.csprojAssemblyReference.cache
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections6Lesson\example2\bin\Debug\example2.exe.config
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections6Lesson\example2\bin\Debug\example2.exe
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections6Lesson\example2\bin\Debug\example2.pdb
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections6Lesson\example2\obj\Debug\example2.csprojAssemblyReference.cache
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections6Lesson\example2\obj\Debug\example2.exe
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections6Lesson\example2\obj\Debug\example2.pdb

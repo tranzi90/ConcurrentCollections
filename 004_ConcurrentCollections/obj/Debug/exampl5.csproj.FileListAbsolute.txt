@@ -1,0 +1,6 @@
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections6Lesson\exampl5\obj\Debug\exampl5.csprojAssemblyReference.cache
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections6Lesson\exampl5\bin\Debug\exampl5.exe.config
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections6Lesson\exampl5\bin\Debug\exampl5.exe
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections6Lesson\exampl5\bin\Debug\exampl5.pdb
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections6Lesson\exampl5\obj\Debug\exampl5.exe
+D:\ITVDN\AsyncProgramming\009_ConcurrentDictionary. Параллельная обработка\PS\ConcurrentCollections6Lesson\exampl5\obj\Debug\exampl5.pdb
